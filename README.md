@@ -14,7 +14,9 @@
       * `o` - up right
       * `.` - down right
       * `Ctrl-9` - toggle margins
-* [Karabiner](https://pqrs.org/osx/karabiner/)
+* [Karabiner Elements](https://github.com/tekezo/Karabiner-Elements) (Sierra and later)
+  * [Install rules](karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fraw.githubusercontent.com%2Fwyne%2Fkeyboard-control%2Fmaster%2Fke-rules.json)
+* [Karabiner](https://pqrs.org/osx/karabiner/) (Pre Sierra)
   * Mouse emulation: "Vi Mode" Setting
     * Move cursor with `d` + `h`/`j`/`k`/`l`
     * Scroll with `ds` + `h`/`j`/`k`/`l`
